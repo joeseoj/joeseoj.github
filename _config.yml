@@ -28,7 +28,7 @@ twitter_username: #jekyllrb
 github_username:  joeseoj
 
 # Build settings
-theme: minima
+remote_theme:  mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
 

@@ -22,9 +22,9 @@ title: Non-Breaking Space
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to post things I make, things I'm thinking about, and other things.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/joeseoj" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: #jekyllrb
+# twitter_username: #jekyllrb
 github_username:  joeseoj
 
 # Build settings
